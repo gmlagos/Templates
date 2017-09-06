@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- COMMENT WHAT THE PAGE IS ABOUT -->
+    <title>ADD TITLE HERE, TO BE SEEN ON TAB</title>
+  </head>
+
+  <body>
+    <h1>PAGE HEADER</h1>
+
+    <p>FIRST PARAGRAPH</p>
+  </body>
+</html>
